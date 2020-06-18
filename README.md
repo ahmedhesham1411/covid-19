@@ -1,6 +1,6 @@
 # covid-19
-
 NOVELCovid api using retrofit and RXJava
+
 
 | Splash Screen  | Choose country | Details 
 | ------------- | ------------- | -------------
